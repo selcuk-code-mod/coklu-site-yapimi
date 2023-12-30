@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+.col-12 i {
+  font-size: 4rem;
+}
+.h1 p {
+  font-weight: 800;
+  font-size: 2.4rem;
+}
+
+input {
+  width: 200px;
+}
+.col i {
+  font-size: 3rem;
+}
+.col .lead {
+  font-size: 1rem;
+}
+.col .h4 {
+  font-weight: 700;
+}
+.col-6 i {
+  width: 25%;
+  height: auto;
+}
